@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """
-@Author    : SYG
-@Email     : shenyg2412@gmail.com
+@Author    : Alias
+@Email     : AliasGhost@gmail.com
 @File      : day-3 有效的括号.py
 @Created   : 2025-03-28 14:04
 @Desc      :

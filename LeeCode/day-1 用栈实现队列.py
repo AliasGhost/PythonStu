@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """
-@Author    : SYG
-@Email     : shenyg2412@gmail.com
+@Author    : Alias
+@Email     : AliasGhost@gmail.com
 @File      : day-1 用栈实现队列.py
 @Created   : 2025-03-27 15:07
 @Desc      :
