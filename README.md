@@ -1,1 +1,3 @@
-# PythonStu
+# Python算法每日一题
+
+坚持就是胜利
